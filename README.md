@@ -29,7 +29,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![OUTPUT](./images/event.png)
+![image](https://user-images.githubusercontent.com/118671457/215025079-5594b36b-4348-4290-b744-1a6031ab5be9.png)
 ![OUTPUT](./images/event2.png)
 ![OUTPUT](./images/event3.png)
 ![OUTPUT](./images/event4.png)
